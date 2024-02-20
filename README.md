@@ -1,3 +1,3 @@
 # multiclass-classification
 
-DataSource : Kaggle - Consumer Complaints Dataset for NLP
+DataSource : Kaggle - Emotion Dataset for Emotion Recognition
